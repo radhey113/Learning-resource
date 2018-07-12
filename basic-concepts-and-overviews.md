@@ -1,6 +1,6 @@
 # Technologies Overview
 
-#### JS
+#### Javascript
 - [Overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 Javascript is a Cross-platform scripting language. We all know Javascript is used in front-end side but Javascript provides some framework to write the server side code e.g: Node JS, Phonegap etc.
 - [Tutorials](https://www.pluralsight.com/browse/software-development/javascript?gclid=EAIaIQobChMIp_aEmJCa3AIVViUrCh3fdQfUEAAYASAAEgL99fD_BwE&aid=7010a000002BWq6AAG&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=APAC_Dynamic&utm_content=&s_kwcid=AL!5668!3!277681681197!b!!g!!&ef_id=Wu2_ZQAAAJ50Wmjc:20180712175134:s) to learn things practically
