@@ -1,9 +1,9 @@
 # Node JS/Java Script Links
 
-These tutorials and resource links I've collected on Node JS, Java Script, Modern JS and more, are high-quality articles and resources for someone who wants to learn about the Node JS and Modern JS environment, as well as a source for quality information on advanced topics and techniques. Not quite "awesome", but hopefully useful as a starting point I can give to others. Suggestions welcome.
+These tutorial and resource links I've shared on Node JS, Java Script, Modern JS and many more, are one of the best articles for those who wants to learn about these technologies deeply.
 
 
-There is alot resource available on internet about the NodeJS, but few of them are highly incredible whome we can understand and learn from them.
+There are number of resources available on the internet about the above mentioned technologies.
 - - -
 ## Table of Contents
 
