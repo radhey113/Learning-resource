@@ -2,7 +2,6 @@
 
 These tutorial and resource links I've shared on Node JS, Java Script, Modern JS and many more, are one of the best articles for those who wants to learn about these technologies deeply.
 
-
 There are number of resources available on the internet about the above mentioned technologies, I have shared few of them to grow your knowledge.
 - - -
 ## Table of Contents
