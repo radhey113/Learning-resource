@@ -3,13 +3,13 @@
 These tutorial and resource links I've shared on Node JS, Java Script, Modern JS and many more, are one of the best articles for those who wants to learn about these technologies deeply.
 
 
-There are number of resources available on the internet about the above mentioned technologies.
+There are number of resources available on the internet about the above mentioned technologies, I have shared few of them to grow your knowledge.
 - - -
 ## Table of Contents
 
 #### Getting Started
 - [Basic Concepts and Overviews](./basic-concepts-and-overviews.md)
-- [COmmunity Resources](./community-resouces.md)
+- [Community Resources](./community-resouces.md)
 - [Git Resource and Tutorials](./git-resource-and-tutorial.md)
 - [Node JS and NPM](./nodejs-npm.md)
 - [Boilerplates of Node.JS and Starter kits](./basic-concepts-and-overviews.md)
