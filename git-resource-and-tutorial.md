@@ -1,7 +1,7 @@
 # Git Overview And Resource links
 
 ##### Git
-[Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) is a version control system, which is define our application version. There is two types of version control system, `centralized` and `Distributed` version control system.
+[Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics) is a version control system, which is define our application version. There is two types of version control system, `Centralized` and `Distributed` version control system.
 
 It's allow multiple user to work together and trake each developer work and update the other developers.
 
