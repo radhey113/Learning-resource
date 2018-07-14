@@ -14,7 +14,7 @@ There are number of resources available on the internet about the above mentione
 
 
 #### Basic Tutorials
-- [Core JS and Example](./core-js-exmaple.md)
+- [Core JS and Example](https://medium.com/@radheyg11/javascript-tricky-bits-2b993d5948ef)
 - [Node JS Tutorials](./node-first-server-tutorial.md)
 - [Node Routes](./node-routes.md)
 - [Node Middleware](https://medium.com/@radheyg11/playing-with-node-js-middleware-express-part-1-3a509f1a4a6f)
@@ -32,7 +32,7 @@ There are number of resources available on the internet about the above mentione
 
 #### Advanced Topics
 - Architecture and Structure
-  - [Project Structure](./nodejs-project-structure.md)
+  - [Project Structure](https://medium.com/@radheyg11/node-js-project-structure-5d04634d09e7)
   - [Project Modularity](./node-modularity.md)
   - [Data Management](./node-data-management.md)
   - [Node Performance](./node-connection-with-mongodb.md)
