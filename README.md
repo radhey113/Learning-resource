@@ -10,7 +10,7 @@ There are number of resources available on the internet about the above mentione
 - [Basic Concepts and Overviews](./basic-concepts-and-overviews.md)
 - [Git Resource and Tutorials](./git-resource-and-tutorial.md)
 - [Node JS and NPM](./nodejs-npm.md)
-- [Boilerplates of Node.JS and Starter kits](./basic-concepts-and-overviews.md)
+- [Boilerplates of Node.JS and Starter kits](https://github.com/radhey113/node-with-express-and-swagger)
 
 
 #### Basic Tutorials
