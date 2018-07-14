@@ -17,7 +17,7 @@ There are number of resources available on the internet about the above mentione
 - [Core JS and Example](./core-js-exmaple.md)
 - [Node JS Tutorials](./node-first-server-tutorial.md)
 - [Node Routes](./node-routes.md)
-- [Node Middleware](./node-middleware.md)
+- [Node Middleware](https://medium.com/@radheyg11/playing-with-node-js-middleware-express-part-1-3a509f1a4a6f)
 - [Node with Mongodb connectivity](./node-connection-with-mongodb.md)
 - [Node with SQL connectivity](./node-connection-with-sql.md)
 
