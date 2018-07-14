@@ -1,4 +1,4 @@
-# Node JS/Java Script Links
+# Node.js/Javascript Links
 
 These tutorial and resource links I've shared on Node JS, Java Script, Modern JS and many more, are one of the best articles for those who wants to learn about these technologies deeply.
 
@@ -8,7 +8,6 @@ There are number of resources available on the internet about the above mentione
 
 #### Getting Started
 - [Basic Concepts and Overviews](./basic-concepts-and-overviews.md)
-- [Community Resources](./community-resouces.md)
 - [Git Resource and Tutorials](./git-resource-and-tutorial.md)
 - [Node JS and NPM](./nodejs-npm.md)
 - [Boilerplates of Node.JS and Starter kits](./basic-concepts-and-overviews.md)
@@ -83,7 +82,7 @@ Node js road map
 - [Tips and suggestion](./tips-and-suggestion.md)
 Tips and suggestion to learn
 - - -
-# Learning Core Javascript (ES5)
+<!-- # Learning Core Javascript (ES5)
 
 ### General Resource
 - [Hyperlink](./link.md)
@@ -99,6 +98,6 @@ Timeline for learning
 - [Hyperlink](./link.md)
 Node js road map
 - [Hyperlink](./link.md)
-Tips and suggestion to learn
+Tips and suggestion to learn -->
 
 ### Thank you
