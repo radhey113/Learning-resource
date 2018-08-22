@@ -35,6 +35,7 @@ There are number of resources available on the internet about the above mentione
 #### Advanced Topics
 - Architecture and Structure
   - [Project Structure](https://medium.com/@radheyg11/node-js-project-structure-5d04634d09e7)
+  - [Project Structure Example](https://github.com/radhey113/node-with-express-and-swagger-docker)
   <!-- - [Node Performance](./node-connection-with-mongodb.md)
   - [Deployment](./node-project-deployment.md)
 
