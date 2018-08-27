@@ -18,15 +18,14 @@ There are number of resources available on the internet about the above mentione
 - [Node with Express Middleware](https://medium.com/@radheyg11/playing-with-node-js-middleware-express-part-1-3a509f1a4a6f)
 - [Node with Express Routes](https://medium.com/@radheyg11/node-js-api-route-89f4497e7131)
   - [API Endpoint/Routes Github](https://github.com/radhey113/express-api-routes)
-<!-- - [Node JS Tutorials](./node-first-server-tutorial.md)
-- [Node Routes](./node-routes.md)
-- [Node Middleware](https://medium.com/@radheyg11/playing-with-node-js-middleware-express-part-1-3a509f1a4a6f)
+- [Node JS Tutorials](https://github.com/radhey113/express-api-routes)
 - [Node with Mongodb connectivity](./node-connection-with-mongodb.md)
 - [Node with SQL connectivity](./node-connection-with-sql.md)
 
-
 #### Intermediate Concepts
-- [Node JS with ES6](./core-js-exmaple.md)
+- [Node JS with TypeScript](https://github.com/radhey113/Node-with-typescript)
+
+<!--
 - [Immutable Data](./node-routes.md)
 - [Node JS Debugging](./node-middleware.md)
 - [Node JS Deployment on AWS](./node-connection-with-mongodb.md)
