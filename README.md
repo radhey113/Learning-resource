@@ -7,7 +7,7 @@ There are the numbers of resources available on the internet about the above-men
 ## Table of Contents
 
 #### Getting Started
-This section consists some basic knowledge about the commonly used module. Node JS is a server-side framework using Javascript scripting language for writing server business logic and other implementation.
+This section consists some basic knowledge about the application requirement. Node JS is a server-side framework using Javascript scripting language for writing server business logic and other implementation.
 
 Git is a version control system. It basically controls our application according to the development and production version environment.
 It consists of many commands to push and pull the code in our local or live server.
