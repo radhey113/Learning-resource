@@ -23,10 +23,11 @@ There are the numbers of resources available on the internet about the above-men
 - [Node with Mongodb connectivity](./node-connection-with-mongodb.md)
 - [Node with SQL connectivity](./node-connection-with-sql.md)
 
-#### Intermediate Concepts
-- [Node JS with TypeScript](https://github.com/radhey113/Node-with-typescript)
+
+
 
 <!--
+#### Intermediate Concepts
 - [Immutable Data](./node-routes.md)
 - [Node JS Debugging](./node-middleware.md)
 - [Node JS Deployment on AWS](./node-connection-with-mongodb.md)
@@ -37,6 +38,7 @@ There are the numbers of resources available on the internet about the above-men
 - Architecture and Structure
   - [Project Structure](https://medium.com/@radheyg11/node-js-project-structure-5d04634d09e7)
   - [Project Structure Example](https://github.com/radhey113/node-with-express-and-swagger-docker)
+  - [Node JS with TypeScript](https://github.com/radhey113/Node-with-typescript)
   <!-- - [Node Performance](./node-connection-with-mongodb.md)
   - [Deployment](./node-project-deployment.md)
 
