@@ -7,6 +7,13 @@ There are the numbers of resources available on the internet about the above-men
 ## Table of Contents
 
 #### Getting Started
+This section consists some basic knowledge about the commonly used module. Node JS is a server-side framework using Javascript scripting language for writing server business logic and other implementation.
+
+Git is a version control system. It basically controls our application according to the development and production version environment.
+It consists of many commands to push and pull the code in our local or live server.
+
+NPM is our Node Package Manager, whenever we need any new package to install we use the command `npm install <package name> --save/--save-dev`. '--save' denotes the required dependencies for the production environment too and '--save-dev' denotes the development dependencies only. If we use -g or --global then package will install globally inside your system.
+
 - [Basic Concepts and Overviews](./basic-concepts-and-overviews.md)
 - [Git Resource and Tutorials](./git-resource-and-tutorial.md)
 - [Node JS and NPM](./nodejs-npm.md)
