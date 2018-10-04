@@ -4,10 +4,11 @@ Actual scope of the MongoDB is to implement a data store that provides `high per
 
 ___Note: Generally MongoDB is supported in Windows, Linux, Mac OS X.___
 
-Install Mongodb 
-    [For Ubuntu click here...](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
-    [For MCA click here...](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
-    [For Windows click here...](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+- Install Mongodb 
+  - [For Ubuntu click here...](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+  - [For MAC click here...](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
+  - [For Windows click here...](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+    
     
 - MongoDB Userfull features
   - Support ad hoc queries [Learn More...]('./')
