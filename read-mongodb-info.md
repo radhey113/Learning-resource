@@ -27,7 +27,7 @@ ___Note: Generally MongoDB is supported in Windows, Linux, Mac OS X.___
 - MongoDB Storage Engine
   - The storage engine is the component of the database that is responsible for managing how data is stored, both in memory and on disk. MongoDB supports multiple storage engines, as different engines perform better for specific workloads. Choosing the appropriate storage engine for your use case can significantly impact the performance of your applications.
 
-Some of storage engine are:
+Some of Storage Engines are:
    - WiredTiger Storage Engine (Default) [Learn More...](https://docs.mongodb.com/manual/core/storage-engines/)
    - In-Memory Storage Engine [Learn More...](https://docs.mongodb.com/manual/core/storage-engines/)
    - MMAPv1 Storage Engine (Deprecated as of MongoDB 4.0) [Learn More...](https://docs.mongodb.com/manual/core/storage-engines/)
