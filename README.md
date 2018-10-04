@@ -46,7 +46,7 @@ NPM is our Node Package Manager, whenever we need any new package to install we 
   - [Project Structure Example](https://github.com/radhey113/node-with-express-and-swagger-docker)
   - [Node JS with TypeScript](https://github.com/radhey113/Node-with-typescript)
 - MongoDB
-  - [MongoDb](./read-mongodb-defi.md)  
+  - [MongoDB](./read-mongodb-defi.md)  
   <!-- - [Node Performance](./node-connection-with-mongodb.md)
   - [Deployment](./node-project-deployment.md)
 
