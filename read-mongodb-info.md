@@ -23,7 +23,12 @@ ___Note: Generally MongoDB is supported in Windows, Linux, Mac OS X.___
   - Capped Collections [Learn More...]('./')
   - MongoDB uses BSON format [Learn More...]('./')
 
+- MongoDB Storage Engine
+```
+
 The storage engine is the component of the database that is responsible for managing how data is stored, both in memory and on disk. MongoDB supports multiple storage engines, as different engines perform better for specific workloads. Choosing the appropriate storage engine for your use case can significantly impact the performance of your applications.
+
+```
 
 Some of storage engine are:
    - WiredTiger Storage Engine (Default) [Learn More...](https://docs.mongodb.com/manual/core/storage-engines/)
